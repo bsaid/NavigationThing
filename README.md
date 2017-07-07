@@ -1,5 +1,10 @@
 # NavigationThing
 
+Add these libraries to your Arduino libraries folder (Arduino doesn't support libraries as git submodules):
+- https://github.com/jurs/toneAC
+- https://github.com/FastLED/FastLED
+- https://github.com/mikalhart/TinyGPSPlus/blob/master/TinyGPS%2B%2B.h
+
 The thing, which will safely guide you through darkness. A prop used during
 [K-SCUK 2016](http://kscuk.fi.muni.cz/) night game.
 
